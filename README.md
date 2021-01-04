@@ -25,7 +25,7 @@ It is a platform where a user can buy or sell a product item/items.
 
 #### Responsibilities
 * Ankit Kumar Gupta taken the Frontend of the given problem statement
-* Avinash Kumar Pathak taken the Backend of the given problem statement
+* Avinash Kumar Pathak taken the Backend as well as Frontend of the given problem statement 
 
 #### Steps to execute the solution
 * First one, we created the registration page of the user. For that we used JSP page and Servlet File. In JSP page, for Frontend we used Html, CSS, Javascript, Bootstrap and for Backend we used J2EE, MySQL and AJAX. If user added a emailid at the time of registration and that emailid already present in database, then we generate a message with emailid already exist please choose another one, for that we used AJAX technology.
