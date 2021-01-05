@@ -3,7 +3,7 @@
 It is a platform where a user can buy or sell a product item/items.
 
 #### Team Name
-##### Dynamic Developers
+* Dynamic Developers
 
 #### Team Members Details
 * Avinash Kumar Pathak 
