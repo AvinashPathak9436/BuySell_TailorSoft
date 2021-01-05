@@ -2,6 +2,9 @@
 ### BuySell_TailorSoft
 It is a platform where a user can buy or sell a product item/items.
 
+#### Team Name
+##### Dynamic Developers
+
 #### Team Members Details
 * Avinash Kumar Pathak 
 * Email Id - pathak1506avinash@gmail.com
@@ -24,11 +27,12 @@ It is a platform where a user can buy or sell a product item/items.
 * We thought that we should add two new fields "state of user" & "gender" along with the given fields in the registration page.
 
 #### Responsibilities
-* Avinash Kumar Pathak worked on the Frontend as well as Backend of the given problem statement.
-* Ankit Kumar Gupta worked on the Frontend of the given problem statement.
+* Avinash Kumar Pathak worked on Frontend as well as Backend of the given problem statement.
+* Ankit Kumar Gupta worked on Frontend of the given problem statement.
+
 
 #### Steps to execute the solution
-![Project_StepsToExecution(BuySell_Tailorsoft)](https://user-images.githubusercontent.com/65560594/103638210-9b948500-4f72-11eb-997f-c3c2dd5ab148.PNG)
+![StepsToExecuteSolution_New(BuySell_Tailorsoft)](https://user-images.githubusercontent.com/65560594/103665156-1b354a80-4f99-11eb-99dd-f18841b1d4d6.PNG)
 
 #### Snapshots
 * Home Page
