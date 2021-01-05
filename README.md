@@ -11,8 +11,8 @@ It is a platform where a user can buy or sell a product item/items.
 #### Technologies Used
 * Java Enterprise Edition (J2EE)
 * MySQL Databse
-* HTML, CSS, JavaScript, Bootstrap
-* AJAX, JQuery
+* HTML, CSS, JavaScript, Bootstrap, JSP
+* AJAX, JQuery, Servlet
 
 #### Software Tools
 * Windows 10
